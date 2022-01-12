@@ -1,0 +1,8 @@
+*.xml
+*.html
+*.pyc
+/result/*.log
+.idea
+assets/
+run_master.py
+*.log
