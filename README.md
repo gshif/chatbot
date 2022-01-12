@@ -1,0 +1,1 @@
+docker run --net host --rm -e URL=ws://localhost -e PORT=4444 -e ONE_TEST=src/tests/test_websocket.py -v /Users/gershon.shif/chatbot/result:/Chatbot/result chatbot:latest
